@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Splash Page"
+    url: /splash-page/
+  - title: "Page Archive"
+    url: /page-archive/
+  - title: "Archive Layout with Content"
+    url: /archive-layout-with-content/
+#######################
+#######################
+#######################
+#######################
+# main links
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# - title: "About"
+#   url: https://mmistakes.github.io/minimal-mistakes/about/
+# - title: "Sample Posts"
+#   url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
+# - title: "Sitemap"
+#   url: /sitemap/
